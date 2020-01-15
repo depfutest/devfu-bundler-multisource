@@ -1,6 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  remote: https://gem.fury.io/flowbyte/
   remote: http://devfu-geminabox.flowbyte.net/
   specs:
     devfu-gitlab (1.1.1)
